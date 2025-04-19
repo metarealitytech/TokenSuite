@@ -1,5 +1,7 @@
 
 # Gravitons, Digital Oxygen, Digital Carbon — ERC-20 Token Suite
+[![Audit Ready](https://img.shields.io/badge/audit-ready-brightgreen)](./Audit_Submission_Brief.md)
+
 
 This repository contains the full source code, deployment scripts, and tests for three Ethereum-based tokens:
 - 🌀 **Gravitons (GRAVI)**
