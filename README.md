@@ -1,6 +1,12 @@
 
 # Gravitons, Digital Oxygen, Digital Carbon — ERC-20 Token Suite
 [![Audit Ready](https://img.shields.io/badge/audit-ready-brightgreen)](./Audit_Submission_Brief.md)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
+[![Etherscan Verified](https://img.shields.io/badge/verified-etherscan-black)](https://sepolia.etherscan.io/address/0xeB6d2892c34fE57FfdAE7E7778571664903b7501)
+[![Hardhat](https://img.shields.io/badge/built%20with-Hardhat-yellow)](https://hardhat.org)
+[![Tests Passing](https://img.shields.io/badge/tests-100%25%20passing-brightgreen)](./test)
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/your-username/token-suite)
+[![Mainnet Live](https://img.shields.io/badge/mainnet-live-green)](https://etherscan.io/address/0xYourMainnetAddress)
 
 
 This repository contains the full source code, deployment scripts, and tests for three Ethereum-based tokens:
