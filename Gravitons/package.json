@@ -1,0 +1,30 @@
+{
+  "name": "gravitons",
+  "version": "1.0.0",
+  "description": "## 🔥 Overview - Name: Gravitons - Symbol: GRAVI - Decimals: 18 - Total Supply: 42,000,000 - Standards: ERC-20, Burnable, EIP-2612 Permit, ERC-1363",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-verify": "^2.0.13",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@typechain/ethers-v5": "^10.2.1",
+    "@typechain/hardhat": "^6.1.5",
+    "@types/chai": "^5.2.1",
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^22.14.1",
+    "chai": "^4.3.7",
+    "dotenv": "^16.5.0",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.22.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
